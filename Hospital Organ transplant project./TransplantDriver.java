@@ -3,9 +3,6 @@
  * program. The static main method callse all the necessary methods.
  *
  * @author Varun Vaidhyanathan
- * e-mail:varun.vaidhyanathan@stonybrook.edu
- * Stony Brook ID:112527969
- * Recitation: R03
  **/
 
 import java.io.*;
