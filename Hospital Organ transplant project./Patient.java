@@ -3,9 +3,6 @@
  * Comparable and Serializable interfaces are implemented by this class
  *
  * @author Varun Vaidhyanathan
- * e-mail:varun.vaidhyanathan@stonybrook.edu
- * Stony Brook ID:112527969
- * Recitation: R03
  **/
 
 import java.io.Serializable;
